@@ -1,8 +1,10 @@
-function add(a,b){
-    return a+b;
-}
+const add = (a, b) => {
+  return a + b;
+};
+const substract = (a, b) => {
+  return a - b;
+};
 
-//coment
-function substract(a,b){
-    return a-b;
-}
+const multiply = (a, b) => {
+  return a * b;
+};
