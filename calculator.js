@@ -14,7 +14,6 @@ const multiply = (a, b) => {
   return a * b;
 };
 
-
 // 나눗셈
 const divide_free = (a, b) => {
   return a / b;
