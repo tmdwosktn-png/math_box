@@ -18,3 +18,5 @@ const multiply = (a, b) => {
 const divide_free = (a, b) => {
   return a / b;
 };
+
+// 아래는 유료용 함수
